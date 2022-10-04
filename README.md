@@ -6,6 +6,6 @@
 &emsp;p, principal amount  
 &emsp;t, time period in years  
 &emsp;r, annual rate of interest  
-**Output**  
+**Output:**  
 &emsp;simple interest = p\*t\*r  
    
