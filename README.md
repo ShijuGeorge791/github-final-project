@@ -1,11 +1,11 @@
 ## github-final-project
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.  
+**A calculator that calculates simple interest given principal, annual rate of interest and time period in years.**  
 
-Input:  
+**Input:**  
 &emsp;p, principal amount  
 &emsp;t, time period in years  
 &emsp;r, annual rate of interest  
-Output  
+**Output**  
 &emsp;simple interest = p*t*r  
    
